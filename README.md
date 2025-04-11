@@ -1,6 +1,4 @@
-🔍 Predictive Modelling Using Regression Techniques
-
-This repository contains a collection of regression-based machine learning projects implemented using Python (Google Colab). The objective is to build, evaluate, and interpret predictive models using:
+🔍 This repository contains a collection of regression-based machine learning projects implemented using Python (Google Colab). The objective is to build, evaluate, and interpret predictive models using:
 
 Linear Regression,
 Multiple Linear Regression,
